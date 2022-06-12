@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Melodiam</string>
+    <string name="melodiam_logo">Melodiam logo</string>
+    <string name="play_button">Play Melody!</string>
+    <string name="map_sounds">MAP SOUNDS</string>
+    <string name="compose">Compose</string>
+    <string name="back">Back</string>
+    <string name="results">Results</string>
+    <string name="compose_your_message_here">Compose your message here</string>
+    <string name="save_to_device">Save to Device</string>
+    <string name="help_button_by_icons8">help button by icons8</string>
+    <string name="message_appears_here">Message appears here</string>
+    <string name="inst_title">Instructions</string>
+    <string name="save_button">save song to phone</string>
+    <string name="result_title">Results</string>
+    <string name="help">instructions button</string>
+    <string name="close">close</string>
+    <string name="instructions1">Under the compose page, click the \"Compose your message here\" box. Next enter in your customized message. Finally tap the \"Play Melody!\" button and your automatically generated song will be played.</string>
+    <string name="instructions3">Tap \"Save to Device\" in order to save your new song, or enter something new in the input box to start again.</string>
+    <string name="about">About</string>
+    <string name="settings">settings</string>
+    <string name="start_button">Tap to Enter</string>
+    <string name="no_text_error">No text written</string>
+    <string name="about_description">Melodiam is a song generator application that creates a melody based on text inputted by the user. Letters, numbers, and special characters within the string are bound to a unique sound. Accompanying visuals are generated in the background based on the sound of the melody.</string>
+    <string name="gabriel">Gabriel P.</string>
+    <string name="alex">Alexandra C.</string>
+    <string name="jarod">Jarod L.</string>
+    <string name="neomi">Neomi G.</string>
+    <string name="authors">Authors</string>
+</resources>
